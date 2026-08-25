@@ -1,0 +1,23 @@
+{
+ "published_at": "2026-08-24T05:27:06+00:00",
+ "generator": "activity-v1-2026-08-24b",
+ "as_of": "2026-08-15",
+ "files": {
+  "activity/nsw-lga.json": 138603,
+  "activity/nsw-sal.json": 3134929
+ },
+ "row_counts": {
+  "lga": 128,
+  "sal": 3473
+ },
+ "assignment": {
+  "applications": 111011,
+  "geocoded": 111007,
+  "geocoded_share": 1.0,
+  "sal_by_xy": 110978,
+  "sal_by_name": 23,
+  "lga_only": 10,
+  "sal_assigned_share": 1.0
+ },
+ "councils_unmatched_abs": []
+}
